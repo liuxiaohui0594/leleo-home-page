@@ -3,17 +3,17 @@ const config = {
 	metaData: {
 		title: 'ZLL的个人主页🎉',
 		description: '欢迎来到ZLL的奇妙世界！',
-		keywords: ‘ZLL,ZLL,个人主页,个人网站’,
-		icon: ‘/favicon.ico’   //网页图标，支持外链
+		keywords: 'ZLL,ZLL,个人主页,个人网站',
+		icon: '/favicon.ico'   //网页图标，支持外链
 	},
 
-	avatar: “/img/avatar.jpg”, // 头像
-	welcometitle: “Hello, Welcome to ZLL”, // 标题
+	avatar: "/img/avatar.jpg", // 头像
+	welcometitle: "Hello, Welcome to ZLL", // 标题
 
 	// 颜色配置
 	color: {
-		themecolor: “#FFFFFF”, // 主题颜色，推荐趋于亮白可带有轻微色调，例： #D1FFEC
-		welcometitlecolor: “#FFFFFF”, // 标题颜色 例： #7BFFC9
+		themecolor: "#FFFFFF", // 主题颜色，推荐趋于亮白可带有轻微色调，例： #D1FFEC
+		welcometitlecolor: "#FFFFFF", // 标题颜色 例： #7BFFC9
 		turntablecolor1: "#FFFF00",  // 转盘渐变色一
 		turntablecolor2: "#00FFFF"   // 转盘渐变色二
 	},
