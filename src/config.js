@@ -8,7 +8,7 @@ const config = {
 	},
 
 	avatar: “/img/avatar.jpg”, // 头像
-	welcometitle: “嗨，欢迎来到ZLL”, // 标题
+	welcometitle: “Hello, Welcome to ZLL”, // 标题
 
 	// 颜色配置
 	color: {
