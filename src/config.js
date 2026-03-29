@@ -2,18 +2,18 @@ const config = {
 	//网页元数据
 	metaData: {
 		title: 'ZLL的个人主页🎉',
-		description: '欢迎来到ZLL的奇妙世界！',
-		keywords: 'ZLL,ZLL,个人主页,个人网站',
-		icon: '/favicon.ico'   //网页图标，支持外链
+		描述: “欢迎来到ZLL的奇妙世界！”,
+		关键词: ‘ZLL,ZLL,个人主页,个人网站’,
+		图标: ‘/favicon.ico’   //网页图标，支持外链
 	},
 
-	avatar: "/img/avatar.jpg", // 头像
-	welcometitle: "Hi, Welcome to ZLL", // 标题
+	头像: “/img/avatar.jpg”, // 头像
+	welcometitle: “嗨，欢迎来到ZLL”, // 标题
 
 	// 颜色配置
 	color: {
-		themecolor: "#FFFFFF", // 主题颜色，推荐趋于亮白可带有轻微色调，例： #D1FFEC
-		welcometitlecolor: "#FFFFFF", // 标题颜色 例： #7BFFC9
+		themecolor: “#FFFFFF”, // 主题颜色，推荐趋于亮白可带有轻微色调，例： #D1FFEC
+		welcometitlecolor: “#FFFFFF”, // 标题颜色 例： #7BFFC9
 		turntablecolor1: "#FFFF00",  // 转盘渐变色一
 		turntablecolor2: "#00FFFF"   // 转盘渐变色二
 	},
@@ -138,14 +138,21 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "博客", subtitle: "1,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "bk.lz520.eu.cc", show: false },
-		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "斗地主", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "ddz.lz520.eu.cc", show: false },
-		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "ZL影视", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "dj.lz520.eu.cc", show: false },
-		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "知识51", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "zs.lz520.eu.cc", show: false },
+		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "博客", subtitle: "1,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "dnbk.lz520.eu.cc", show: false },
+		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "斗地主", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "dnddz.lz520.eu.cc", show: false },
+		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "ZL影视", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "dndj.lz520.eu.cc", show: false },
+		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "Sanyue 图床", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://533.liuxiaohui.dpdns.org/", show: false },
 		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "CARD TAB", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://wz.zhanglijuan.dpdns.org/", show: false },
 		{ go: "🎨 前往", img: "/img/sunshine.jpg", title: "kvideo的premium", subtitle: "6,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://kvideo.zhanglijuan.dpdns.org/", show: false },
 		{ go: "💍 前往", img: "/img/sunshine.jpg", title: "VERCEL", subtitle: "7,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://vercel.com/liuxiaohui0594s-projects", show: false },
 		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "其他", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "suiji.lz520.eu.cc", show: false },
+		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "其他", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "suiji.lz520.eu.cc", show: false },
+		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "其他", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "suiji.lz520.eu.cc", show: false },
+		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "其他", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "suiji.lz520.eu.cc", show: false },
+		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "其他", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "suiji.lz520.eu.cc", show: false },
+		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "其他", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "suiji.lz520.eu.cc", show: false },
+		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "其他", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "suiji.lz520.eu.cc", show: false },
+		
 	],
 	
 	statement: ["备案号：XXICP备123456789号", "Copyright © 2025 ZLL"],
