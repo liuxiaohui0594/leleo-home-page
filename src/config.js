@@ -31,7 +31,7 @@ const config = {
 			"datainfo": {
 				"title": "海洋女孩",
 				"preview": "/img/wallpaper/static/海洋女孩/image-pre.webp",
-				"url": "/img/wallpaper/static/海洋女孩/image.png",     //当然，也可填写网络地址或壁纸api，如随机PC壁纸api："url":"https://t.mwm.moe/pc"
+				"url":"https://t.mwm.moe/pc",     //当然，也可填写网络地址或壁纸api，如随机PC壁纸api："url":"https://t.mwm.moe/pc"
 			},
 		},
 		"mobile": {   //移动端
@@ -39,7 +39,7 @@ const config = {
 			"datainfo": {
 				"title": "0001",
 				"preview": "/img/wallpaper/static-mobile/0001/image-pre.webp",
-				"url": "/img/wallpaper/static-mobile/0001/image.png"  //同理，随机移动端壁纸："url":"https://t.mwm.moe/mp"
+				"url":"https://t.mwm.moe/mp"  //同理，随机移动端壁纸："url":"https://t.mwm.moe/mp"
 			}
 		}
 
@@ -67,6 +67,8 @@ const config = {
 		"顶峰的少年，给了你所有细节，你却说我不是迪迦，给不了你想要的光。",
 		"心简单，世界就简单，幸福才会生长；心自由，生活就自由，到哪都有快乐。",
 		"生命太短，没有时间留给遗憾，若不是终点，请微笑一直向前。"
+		"珍爱生命，远离酒驾，啊哈哈哈，安全第一。"
+		"ZLL主页，欢迎你的到来，后面才是重点，老婆孩子爱你们。"
 	],
 
 	//音乐播放配置，采用MetingJS Api(https://github.com/metowolf/MetingJS)
