@@ -140,9 +140,9 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "博客", subtitle: "1,000 miles of wonder", text: "ZLL私人博客，免费的商品好看的模板，欢迎来我主页.", url: "dnbk.lz520.eu.cc", show: false },
-		{ go: "🗂️ 前往", img: "/img/1/fengjing1.jpg", title: "斗地主", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "dnddz.lz520.eu.cc", show: false },
-		{ go: "📝 前往", img: "/img/1/fengjing2.jpg", title: "ZL影视", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "dndj.lz520.eu.cc", show: false },
+		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "博客", subtitle: "1,000 miles of wonder", text: "ZLL私人博客，免费的商品好看的模板，欢迎来我主页.", url: "bk.lz520.eu.cc", show: false },
+		{ go: "🗂️ 前往", img: "/img/1/fengjing1.jpg", title: "斗地主", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "ddz.lz520.eu.cc", show: false },
+		{ go: "📝 前往", img: "/img/1/fengjing2.jpg", title: "ZL影视", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "dj.lz520.eu.cc", show: false },
 		{ go: "👍 前往", img: "/img/1/fengjing3.jpg", title: "Sanyue 图床", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://533.liuxiaohui.dpdns.org/", show: false },
 		{ go: "🗃 前往", img: "/img/1/fengjing4.jpg", title: "CARD TAB", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://wz.zhanglijuan.dpdns.org/", show: false },
 		{ go: "🎨 前往", img: "/img/1/fengjing5.jpg", title: "kvideo", subtitle: "6,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://kvideo.zhanglijuan.dpdns.org/", show: false },
