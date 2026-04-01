@@ -31,7 +31,7 @@ const config = {
 			"datainfo": {
 				"title": "海洋女孩",
 				"preview": "/img/wallpaper/static/海洋女孩/image-pre.webp",
-				"url":"https://t.mwm.moe/Fj",     //当然，也可填写网络地址或壁纸api，如随机PC壁纸api："url":"https://t.mwm.moe/pc"
+				"url":"https://t.mwm.moe/pc",     //当然，也可填写网络地址或壁纸api，如随机PC壁纸api："url":"https://t.mwm.moe/pc"
 			},
 		},
 		"mobile": {   //移动端
@@ -39,7 +39,7 @@ const config = {
 			"datainfo": {
 				"title": "0001",
 				"preview": "/img/wallpaper/static-mobile/0001/image-pre.webp",
-				"url":"https://t.mwm.moe/Fjmp"  //同理，随机移动端壁纸："url":"https://t.mwm.moe/mp"
+				"url":"https://t.mwm.moe/mp"  //同理，随机移动端壁纸："url":"https://t.mwm.moe/mp"
 			}
 		}
 
