@@ -140,9 +140,9 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "博客", subtitle: "1,000 miles of wonder", text: "ZLL私人博客，免费的商品好看的模板，欢迎来我主页.", url: "bk.lz520.eu.cc", show: false },
-		{ go: "🗂️ 前往", img: "/img/1/fengjing1.jpg", title: "斗地主", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "ddz.lz520.eu.cc", show: false },
-		{ go: "📝 前往", img: "/img/1/fengjing2.jpg", title: "ZL影视", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "dj.lz520.eu.cc", show: false },
+		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "博客", subtitle: "1,000 miles of wonder", text: "ZLL私人博客，免费的商品好看的模板，欢迎来我主页.", url: "127.0.0.1:8002", show: false },
+		{ go: "🗂️ 前往", img: "/img/1/fengjing1.jpg", title: "快车资源", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://kuaichezy.vip/", show: false },
+		{ go: "📝 前往", img: "/img/1/fengjing2.jpg", title: "ZL影视", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "127.0.0.1:8888", show: false },
 		{ go: "👍 前往", img: "/img/1/fengjing3.jpg", title: "Sanyue 图床", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://533.liuxiaohui.dpdns.org/", show: false },
 		{ go: "🗃 前往", img: "/img/1/fengjing4.jpg", title: "CARD TAB", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://wz.zhanglijuan.dpdns.org/", show: false },
 		{ go: "🎨 前往", img: "/img/1/fengjing5.jpg", title: "kvideo", subtitle: "6,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://kvideo.zhanglijuan.dpdns.org/", show: false },
@@ -150,10 +150,18 @@ const config = {
 		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "电视直播", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://tv.cctv.com/cctvnav/m/?spm=C28340.PTdXq4SO9APo.Eg32sIxqsfKt.4", show: false },
 		{ go: "🔍 前往", img: "/img/1/fengjing8.jpg", title: "美国地址生成器", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://www.meiguodizhi.com/", show: false },
 		{ go: "🔍 前往", img: "/img/1/fengjing9.jpg", title: "外国手机短信验证码", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://free-phone-number.com/Netherlands/3197058049384", show: false },
-		{ go: "🔍 前往", img: "/img/1/fengjing10.jpg", title: "暴力猴脚本下载", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://www.tampermonkey.net/scripts.php", show: false },
-		{ go: "🔍 前往", img: "/img/1/fengjing11.jpg", title: "其他", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "suiji.lz520.eu.cc", show: false },
+		{ go: "🔍 前往", img: "/img/1/fengjing10.jpg", title: "篡改猴脚本下载", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://www.tampermonkey.net/scripts.php", show: false },
+		{ go: "🔍 前往", img: "/img/1/fengjing11.jpg", title: "达人的", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://souavzyw.com/", show: false },
 		{ go: "🔍 前往", img: "/img/1/fengjing12.jpg", title: "其他", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "suiji.lz520.eu.cc", show: false },
 		{ go: "🔍 前往", img: "/img/1/fengjing13.jpg", title: "其他", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "suiji.lz520.eu.cc", show: false },
+		{ go: "🔍 前往", img: "/img/1/fengjing8.jpg", title: "其他", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "suiji.lz520.eu.cc", show: false },
+		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "其他", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "suiji.lz520.eu.cc", show: false },
+		{ go: "🔍 前往", img: "/img/1/fengjing5.jpg", title: "其他", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "suiji.lz520.eu.cc", show: false },
+		{ go: "🔍 前往", img: "/img/1/fengjing9.jpg", title: "其他", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "suiji.lz520.eu.cc", show: false },
+		{ go: "🔍 前往", img: "/img/1/fengjing3.jpg", title: "其他", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "suiji.lz520.eu.cc", show: false },
+		{ go: "🔍 前往", img: "/img/1/fengjing10.jpg", title: "其他", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "suiji.lz520.eu.cc", show: false },
+		{ go: "🔍 前往", img: "/img/1/fengjing9.jpg", title: "其他", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "suiji.lz520.eu.cc", show: false },
+		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "其他", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "suiji.lz520.eu.cc", show: false },
 		
 	],
 	
