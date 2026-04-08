@@ -162,8 +162,15 @@ const config = {
 		{ go: "🔍 前往", img: "/img/1/fengjing10.jpg", title: "百度网盘", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://pan.baidu.com/disk/main?_at_=1775644084687#/index?category=all", show: false },
 		{ go: "🔍 前往", img: "/img/1/fengjing9.jpg", title: "虎牙资源", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://www.huyaapi.com/", show: false },
 		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "电视直播源", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "ds.lz520.eu.cc", show: false },
+		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "电视直播源", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "ds.lz520.eu.cc", show: false },
+		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "电视直播源", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "ds.lz520.eu.cc", show: false },
+		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "电视直播源", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "ds.lz520.eu.cc", show: false },
+		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "电视直播源", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "ds.lz520.eu.cc", show: false },
+		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "电视直播源", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "ds.lz520.eu.cc", show: false },
+		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "电视直播源", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "ds.lz520.eu.cc", show: false },
+		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "电视直播源", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "ds.lz520.eu.cc", show: false },
 		
-	]
+	],
 	
 	statement: ["备案号：XXICP备123456789号", "Copyright © 2025 ZLL"],
 }
