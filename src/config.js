@@ -140,9 +140,9 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "博客", subtitle: "1,000 miles of wonder", text: "ZLL私人博客，免费的商品好看的模板，欢迎来我主页.", url: "127.0.0.1:8002", show: false },
+		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "博客", subtitle: "1,000 miles of wonder", text: "ZLL私人博客，免费的商品好看的模板，欢迎来我主页.", url: "http://127.0.0.1:8002", show: false },
 		{ go: "🗂️ 前往", img: "/img/1/fengjing1.jpg", title: "快车资源", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://kuaichezy.vip/", show: false },
-		{ go: "📝 前往", img: "/img/1/fengjing2.jpg", title: "ZL影视", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "127.0.0.1:8888", show: false },
+		{ go: "📝 前往", img: "/img/1/fengjing2.jpg", title: "ZL影视", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://127.0.0.1:8888", show: false },
 		{ go: "👍 前往", img: "/img/1/fengjing3.jpg", title: "Sanyue 图床", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://533.liuxiaohui.dpdns.org/", show: false },
 		{ go: "🗃 前往", img: "/img/1/fengjing4.jpg", title: "CARD TAB", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://wz.zhanglijuan.dpdns.org/", show: false },
 		{ go: "🎨 前往", img: "/img/1/fengjing5.jpg", title: "kvideo", subtitle: "6,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://kvideo.zhanglijuan.dpdns.org/", show: false },
@@ -161,14 +161,14 @@ const config = {
 		{ go: "🔍 前往", img: "/img/1/fengjing3.jpg", title: "我的VPN", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://liuxiaohui.dpdns.org/Liuxiaohui_520", show: false },
 		{ go: "🔍 前往", img: "/img/1/fengjing10.jpg", title: "百度网盘", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://pan.baidu.com/disk/main?_at_=1775644084687#/index?category=all", show: false },
 		{ go: "🔍 前往", img: "/img/1/fengjing9.jpg", title: "虎牙资源", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://www.huyaapi.com/", show: false },
-		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "电视直播源", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "ds.lz520.eu.cc", show: false },
-		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "电视直播源", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "ds.lz520.eu.cc", show: false },
-		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "电视直播源", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "ds.lz520.eu.cc", show: false },
-		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "电视直播源", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "ds.lz520.eu.cc", show: false },
-		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "电视直播源", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "ds.lz520.eu.cc", show: false },
-		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "电视直播源", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "ds.lz520.eu.cc", show: false },
-		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "电视直播源", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "ds.lz520.eu.cc", show: false },
-		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "电视直播源", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "ds.lz520.eu.cc", show: false },
+		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "电视直播源", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://ds.lz520.eu.cc/c", show: false },
+		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "电视直播源", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://ds.lz520.eu.cc/c", show: false },
+		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "电视直播源", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://ds.lz520.eu.cc/c", show: false },
+		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "电视直播源", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://ds.lz520.eu.cc/c", show: false },
+		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "电视直播源", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://ds.lz520.eu.cc/c", show: false },
+		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "电视直播源", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://ds.lz520.eu.cc/c", show: false },
+		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "电视直播源", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://ds.lz520.eu.cc/c", show: false },
+		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "电视直播源", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://ds.lz520.eu.cc/c", show: false },
 		
 	],
 	
