@@ -167,7 +167,7 @@ const config = {
 		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "GitCode", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://gitcode.com", show: false },
 		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "亿码酷站", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://www.yimaoku.com", show: false },
 		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "春哥技术博客", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://www.chunge.cc", show: false },
-		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "电视直播源", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://ds.lz520.eu.cc/c", show: false },
+		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "DJ呦呦音乐网", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://www.djuu.com/", show: false },
 		{ go: "🔍 前往", img: "/img/1/fengjing7.jpg", title: "电视直播源", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://ds.lz520.eu.cc/c", show: false },
 		
 	],
