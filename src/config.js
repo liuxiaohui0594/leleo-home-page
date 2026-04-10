@@ -140,7 +140,7 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "博客", subtitle: "1,000 miles of wonder", text: "ZLL私人博客，免费的商品好看的模板，欢迎来我主页.", url: "https//bk.lz520.eu.cc", show: false },
+		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "博客", subtitle: "1,000 miles of wonder", text: "ZLL私人博客，免费的商品好看的模板，欢迎来我主页.", url: "https://bk.lz520.eu.cc/", show: false },
 		{ go: "🗂️ 前往", img: "/img/1/fengjing1.jpg", title: "快车资源", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://kuaichezy.vip/", show: false },
 		{ go: "📝 前往", img: "/img/1/fengjing2.jpg", title: "ZL影视", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://127.0.0.1:8888", show: false },
 		{ go: "👍 前往", img: "/img/1/fengjing3.jpg", title: "Sanyue 图床", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://533.liuxiaohui.dpdns.org/", show: false },
